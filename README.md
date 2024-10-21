@@ -1,2 +1,2 @@
 # DataCleaning
-csv data cleaning function
+Function for visualizing and cutting csv data on the x axis
